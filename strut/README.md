@@ -13,3 +13,8 @@ After inserting struts in each text box, the outlines do not depend on the conte
 Example with outlines of text boxes outlined:
 
 <img src="example.svg" alt="Example" style="width:50%; height:auto;">
+
+## Installation
+
+1. place `strut.lua` in `.ipe/ipelets`
+2. optional: add shortcut, e.g. `shortcuts.ipelet_1_strut = "Alt+Shift+S"` in `.ipe/ipelets/customization.lua`
