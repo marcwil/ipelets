@@ -161,3 +161,6 @@ methods={
   { label="Interactive tool…", run=interactive },
   { label="Help / Examples",   run=show_help  },
 }
+
+-- shortcuts
+shortcuts.ipelet_2_changewidth = "Alt+Shift+W"
