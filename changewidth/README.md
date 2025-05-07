@@ -4,12 +4,14 @@ Synchronize the widths of multiple *minipage* text objects in [Ipe](https://ipe.
 
 ## Usage
 
+**Sync width command:**
 1. Select every minipage you want to resize.
 2. Select the *reference* minipage **last** so it becomes the primary selection.
 3. Run **Ipelets → Sync minipage widths → Sync widths**.
+4. All secondary minipages adopt the reference width.
 
-All secondary minipages adopt the reference width.
-Need more guidance? Choose **Help / Examples** from the same submenu.
+**Interactive tool:** like Ipe's default `Alt+W` but all selected minipages are
+set to the desired width
 
 ## Installation
 
